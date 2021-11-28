@@ -1,16 +1,18 @@
 # Projeto Integrador Univesp
 
-## Grupo 3 - Polo Itapevi
+## PJI110-0027 - Grupo 3 - Polo Itapevi
 
 ### Integrantes:
 
-* Adriana
-* Aline
-* Andressa
-* Claudio Oliveira dos Santos
-* Jatir Breda
-* Raphael
-* Vilma
+* Adriana Aparecida de Souza Turetti		
+* Aline Souza Alves					
+* Andressa Aparecida Silva de Souza		
+* Claudio Oliveira dos Santos		      
+* Jatir Breda Correa					
+* Rafael de Araújo Macedo			
+* Vilma Maria do Nascimento		
+
+ 
 
 
 
@@ -24,7 +26,7 @@ Para acessar a parte CRUD da aplicação utiliza-se o caminho:
 localhost:8000/read/
 ```
 
-## Referencias:
+## Referências:
 
 CRUD em Python: <https://webdesignemfoco.com/cursos/python>
 
